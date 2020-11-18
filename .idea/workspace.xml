@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4a02e4d3-e984-4c64-9cd3-4db01447ff1b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_form.php" beforeDir="false" afterPath="$PROJECT_DIR$/_form.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/auth.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/create.php" beforeDir="false" afterPath="$PROJECT_DIR$/create.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/delete.php" beforeDir="false" afterPath="$PROJECT_DIR$/delete.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deleteForm.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.php" beforeDir="false" afterPath="$PROJECT_DIR$/main.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/route.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/router/pub/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/update.php" beforeDir="false" afterPath="$PROJECT_DIR$/update.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/users/users.json" beforeDir="false" afterPath="$PROJECT_DIR$/users/users.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view.php" beforeDir="false" afterPath="$PROJECT_DIR$/view.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1js3e2qvWkUrdG3Mk3sBZobiCaj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Desktop\sites\first" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Desktop\sites\first" />
+      <recent name="C:\Users\user\Desktop\sites\first\pages" />
+      <recent name="C:\Users\user\Desktop\sites\first\users" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4a02e4d3-e984-4c64-9cd3-4db01447ff1b" name="Default Changelist" comment="" />
+      <created>1604579063974</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604579063974</updated>
+      <workItem from="1604579065081" duration="507000" />
+      <workItem from="1604579685305" duration="254000" />
+      <workItem from="1604581520114" duration="3069000" />
+      <workItem from="1604585713089" duration="6341000" />
+      <workItem from="1604645216263" duration="21074000" />
+      <workItem from="1604905011530" duration="27279000" />
+      <workItem from="1604990832367" duration="22492000" />
+      <workItem from="1605077943159" duration="23398000" />
+      <workItem from="1605164581325" duration="24179000" />
+      <workItem from="1605254345706" duration="1806000" />
+      <workItem from="1605257487877" duration="19365000" />
+      <workItem from="1605510106662" duration="16187000" />
+      <workItem from="1605531558425" duration="9480000" />
+      <workItem from="1605596345033" duration="14072000" />
+      <workItem from="1605617305703" duration="815000" />
+      <workItem from="1605683093763" duration="898000" />
+      <workItem from="1605684341793" duration="1933000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="85" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1605612367101">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="85" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605612367101" />
+    <state x="326" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1604907998794">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="326" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604907998794" />
+    <state x="740" y="262" key="FileChooserDialogImpl" timestamp="1604991041675">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="262" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1604991041675" />
+    <state x="384" y="243" key="NewPhpClassDialog" timestamp="1605601621979">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="384" y="243" key="NewPhpClassDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605601621979" />
+    <state x="794" y="443" key="NewPhpFileDialog" timestamp="1605534812355">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="794" y="443" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605534812355" />
+    <state x="461" y="165" key="SettingsEditor" timestamp="1605107780901">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1605107780901" />
+    <state x="983" y="16" width="953" height="875" key="dock-window-1" timestamp="1605176942469">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="983" y="16" width="953" height="875" key="dock-window-1/0.0.1920.1040@0.0.1920.1040" timestamp="1605176942469" />
+    <state x="667" y="253" width="585" height="564" key="find.popup" timestamp="1605684271806">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="253" width="585" height="564" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1605684271806" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1605016088341">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1605016088341" />
+    <state x="234" y="229" width="672" height="678" key="search.everywhere.popup" timestamp="1605540169618">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="234" y="229" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1605540169618" />
+  </component>
+</project>
